@@ -3,7 +3,7 @@
 *.pyc
 *.pyo
 __pycache__/
-
+redis.py
 # Distribution / packaging
 .Python
 env/
